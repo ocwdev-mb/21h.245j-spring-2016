@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Military History"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ]
+  ],
+  "legacy_uid": "28d30e02-2a63-cb9e-2f51-5dc1868b6218",
+  "instructors": {
+    "content": [
+      "1c5684a0-0660-69a8-c567-f5918f5cb3a2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "3f8d6aa7-a4f2-44b8-0e10-fcea2522c28d",
+    "website": "21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016"
+  },
+  "course_title": "Soviet and Post-Soviet Politics and Society, 1917 to the Present",
+  "course_description": "This course explores the political and historical evolution of the Soviet state and society from the 1917 Revolution to the present. It covers the creation of a revolutionary regime, causes and nature of the Stalin revolution, post-Stalinist efforts to achieve political and social reform, and causes of the Soviet collapse. It also examines current developments in Russia in light of Soviet history.\n",
+  "department_numbers": [
+    "21H",
+    "17",
+    "21G"
+  ],
+  "extra_course_numbers": "17.57J,21G.086J",
+  "primary_course_number": "21H.245J",
+  "course_image_thumbnail": {
+    "content": "804022dd-0c3f-13cd-88de-35879d979b69",
+    "website": "21h-245j-soviet-and-post-soviet-politics-and-society-1917-to-the-present-spring-2016"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "68eab353-e1f8-452a-a826-1b67b3a9f994",
+  "site_short_id": "21h.245j-spring-2016",
+  "title": "Course Metadata"
+}
